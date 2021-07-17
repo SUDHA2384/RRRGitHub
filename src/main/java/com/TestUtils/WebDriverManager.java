@@ -42,4 +42,8 @@ public class WebDriverManager extends BaseClass{
 	public void windoeHandle(String parentWindo) {
 		
 	}
+	
+	public void windoeHandle(String chileWindow) {
+		
+	}
 }
