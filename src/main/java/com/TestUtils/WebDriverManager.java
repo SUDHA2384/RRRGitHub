@@ -39,7 +39,7 @@ public class WebDriverManager extends BaseClass{
 		element.click();
 	}
 	
-	public void windoeHandle() {
+	public void windoeHandle(String parentWindow) {
 		
 	}
 }
