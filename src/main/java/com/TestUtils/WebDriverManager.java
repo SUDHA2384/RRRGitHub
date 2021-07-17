@@ -38,4 +38,8 @@ public class WebDriverManager extends BaseClass{
 		wait.until(ExpectedConditions.elementToBeClickable(element));
 		element.click();
 	}
+	
+	public void windoeHandle(String parentWindo) {
+		
+	}
 }
